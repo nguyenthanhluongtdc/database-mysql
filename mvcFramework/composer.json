@@ -1,0 +1,15 @@
+{
+    "name": "thanh-luong/mvc-framework",
+    "authors": [
+        {
+            "name": "luong.nt",
+            "email": "ntl.tdc.edu.vn@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
